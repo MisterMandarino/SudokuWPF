@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ScialGio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ScialGio\\.nuget\\packages"
+    ]
+  }
+}
